@@ -46,9 +46,8 @@ These are descriptive findings from this dataset, not causal conclusions or univ
 ## Repository structure
 
 ```text
+README.md
 pizza-sales-analysis-sql/
-├── README.md
-├── .gitignore
 ├── data/
 │   ├── order_details.csv
 │   ├── orders.csv
